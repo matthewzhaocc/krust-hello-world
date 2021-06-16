@@ -1,0 +1,3 @@
+name: krustlet
+runtime: nodejs
+description: A Azure TS program for deploying AKS for krustlet
